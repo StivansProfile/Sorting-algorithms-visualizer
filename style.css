@@ -1,0 +1,13 @@
+#bubbleSort-wrapper{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+}
+
+#mergeSort-wrapper{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    justify-content: center;
+}
